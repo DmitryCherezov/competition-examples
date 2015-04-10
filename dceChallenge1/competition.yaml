@@ -1,11 +1,11 @@
 # Build an example competition
 ---
-title: Test detailed results output
-description: This is a test of Stanford Moist Run Challenge
+title: DCE Challenge
+description: This challenge (organized by Wei Huang, OHSU and Jayashree Kalpathy-Cramer, MGH) aims to 
 image: logo.jpg
 has_registration: False
 end_date:
-enable_detailed_results: True 
+enable_detailed_results: True
 html:
     overview: overview.html
     evaluation: evaluation.html
